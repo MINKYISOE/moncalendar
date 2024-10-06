@@ -220,7 +220,7 @@ body {
 
 /* Paragraph for table header row for Myanmar Calendar*/
 .PThMC {
-    text-align: left;
+    text-align: center;
     color: #CCCCCC;
     padding: 10px;
     margin: 0px;
